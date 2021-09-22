@@ -11,11 +11,11 @@
 
 ### Find me:
 <a href= "https://www.linkedin.com/in/saaracastro/" target="_blank"> 
-<img align="center" alt="saara-linkedin" heigth="30" width="40" scr="./images/logo-linkedin.png" style="max-width:100%;"/>
-   </a>
+<img align="center" alt="saara-linkedin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;"/>
+</a>
 
 ### Skills:
-<img scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" heigth="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" heigth="40" style="max-width:100%;"></img>
 
 <!--
 **saaracastro/saaracastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
