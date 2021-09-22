@@ -11,8 +11,7 @@
 
 ### Find me:
 <a href= "https://www.linkedin.com/in/saaracastro/" target="_blank"> 
-<img align="center" alt="saara-linkedin" heigth="30" width="40" scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-style="max-width:100%;"/>
+<img align="center" alt="saara-linkedin" heigth="30" width="40" scr="./images/logo-linkedin.png" style="max-width:100%;"/>
    </a>
 
 ### Skills:
