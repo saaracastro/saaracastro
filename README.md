@@ -6,8 +6,8 @@
  I'm brasilian from Salvador-BA☀️
 
  I'm social worker 👩‍⚕️
-
- I have been learning about tecnology in master 💻
+ 
+ I have been learning JavaScript and Python 💻
 
 ### Find me:
 <a href= "https://www.linkedin.com/in/saaracastro/" target="_blank"> 
